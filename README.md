@@ -37,7 +37,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Leaderboard<a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
 This is the first part of Leaderboard project configured with modules and all Es6 sintaxes amd webpack.
 
