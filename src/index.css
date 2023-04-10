@@ -37,13 +37,11 @@
 .top_header button {
   text-align: center;
   border: 2px solid black;
-  height: fit-content;
-
 }
 
 .core-holder {
   border: 2px solid black;
-  padding-left: .5rem;
+  padding-left: 0.5rem;
 }
 
 .colored {
