@@ -37,7 +37,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio<a name="about-project"></a>
+# 📖 Leaderboard<a name="about-project"></a>
 
 This is the first part of Leaderboard project configured with modules and all Es6 sintaxes amd webpack.
 
@@ -50,7 +50,7 @@ This is the first part of Leaderboard project configured with modules and all Es
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Comming soon...]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:mnaibei/portolio.git
+  git clone git@github.com:mnaibeiaddisalemseifu/Leaderboard-with-API.git
 ```
 
 ### Usage
